@@ -1,0 +1,75 @@
+[submodule "puppet-nginx"]
+	path = nginx
+	url = https://github.com/Proteon/puppet-nginx.git
+[submodule "puppet-java"]
+	path = java
+	url = https://github.com/Proteon/puppet-java.git
+[submodule "puppet-tomcat"]
+	path = tomcat
+	url = https://github.com/Proteon/puppet-tomcat.git
+[submodule "puppet-play"]
+	path = play
+	url = https://github.com/Proteon/puppet-play.git
+[submodule "puppet-liferay"]
+	path = liferay
+	url = https://github.com/Proteon/puppet-liferay.git
+[submodule "puppet-profile_d"]
+	path = profile_d
+	url = https://github.com/Proteon/puppet-profile_d.git
+[submodule "puppet-maven"]
+	path = maven
+	url = https://github.com/Proteon/puppet-maven.git
+[submodule "puppet-postfix"]
+	path = postfix
+	url = https://github.com/Proteon/puppet-postfix.git
+[submodule "puppet-percona"]
+	path = percona
+	url = https://github.com/Proteon/puppet-percona.git
+[submodule "puppet-puppet"]
+	path = puppet
+	url = https://github.com/Proteon/puppet-puppet.git
+[submodule "puppetlabs-apt"]
+	path = apt
+	url = https://github.com/puppetlabs/puppetlabs-apt
+[submodule "puppet-concat"]
+	path = concat
+	url = https://github.com/ripienaar/puppet-concat
+[submodule "apt"]
+	path = apt
+	url = https://github.com/puppetlabs/puppetlabs-apt
+[submodule "inifile"]
+	path = inifile
+	url = https://github.com/cprice-puppet/puppetlabs-inifile
+[submodule "java"]
+	path = java
+	url = https://github.com/Proteon/puppet-java
+[submodule "maven"]
+	path = maven
+	url = https://github.com/Proteon/puppet-maven
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/Proteon/puppet-nginx
+[submodule "percona"]
+	path = percona
+	url = https://github.com/Proteon/puppet-percona
+[submodule "play"]
+	path = play
+	url = https://github.com/Proteon/puppet-play
+[submodule "postfix"]
+	path = postfix
+	url = https://github.com/Proteon/puppet-postfix
+[submodule "profile_d"]
+	path = profile_d
+	url = https://github.com/Proteon/puppet-profile_d
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/Proteon/puppet-tomcat
+[submodule "puppetmaster"]
+	path = puppetmaster
+	url = https://github.com/fsalum/puppet-puppetmaster
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/Proteon/puppet-puppet
+[submodule "stdlib"]
+	path = stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib
