@@ -43,3 +43,6 @@
 [submodule "liferay"]
 	path = liferay
 	url = https://github.com/Proteon/puppet-liferay
+[submodule "phpfpm"]
+	path = phpfpm
+	url = https://github.com/Slashbunny/puppet-phpfpm
