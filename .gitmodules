@@ -46,3 +46,9 @@
 [submodule "phpfpm"]
 	path = phpfpm
 	url = https://github.com/Slashbunny/puppet-phpfpm
+[submodule "apache"]
+	path = apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
