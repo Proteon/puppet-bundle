@@ -1,9 +1,9 @@
 [submodule "apt"]
 	path = apt
-	url = https://github.com/puppetlabs/puppetlabs-apt
+	url = https://github.com/Proteon/puppetlabs-apt.git
 [submodule "inifile"]
 	path = inifile
-	url = https://github.com/cprice-puppet/puppetlabs-inifile
+	url = https://github.com/Proteon/puppetlabs-inifile.git
 [submodule "java"]
 	path = java
 	url = https://github.com/Proteon/puppet-java
@@ -36,19 +36,19 @@
 	url = https://github.com/Proteon/puppet-puppet
 [submodule "stdlib"]
 	path = stdlib
-	url = https://github.com/puppetlabs/puppetlabs-stdlib
+	url = https://github.com/Proteon/puppetlabs-stdlib.git
 [submodule "concat"]
 	path = concat
-	url = https://github.com/ripienaar/puppet-concat
+	url = https://github.com/Proteon/puppetlabs-concat.git
 [submodule "liferay"]
 	path = liferay
 	url = https://github.com/Proteon/puppet-liferay
 [submodule "phpfpm"]
 	path = phpfpm
-	url = https://github.com/Slashbunny/puppet-phpfpm
+	url = https://github.com/Proteon/puppet-phpfpm.git
 [submodule "apache"]
 	path = apache
-	url = https://github.com/puppetlabs/puppetlabs-apache.git
+	url = https://github.com/Proteon/puppetlabs-apache.git
 [submodule "mysql"]
 	path = mysql
-	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+	url = https://github.com/Proteon/puppetlabs-mysql.git
