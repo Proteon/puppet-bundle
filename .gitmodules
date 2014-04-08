@@ -52,3 +52,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/Proteon/puppetlabs-mysql.git
+[submodule "unicorn"]
+	path = unicorn
+	url = https://github.com/Proteon/puppet-unicorn.git
