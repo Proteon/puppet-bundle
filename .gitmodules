@@ -55,3 +55,6 @@
 [submodule "unicorn"]
 	path = unicorn
 	url = https://github.com/Proteon/puppet-unicorn.git
+[submodule "corosync"]
+	path = corosync
+	url = https://github.com/Proteon/puppetlabs-corosync
