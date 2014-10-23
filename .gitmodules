@@ -58,3 +58,9 @@
 [submodule "corosync"]
 	path = corosync
 	url = https://github.com/Proteon/puppetlabs-corosync
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/Proteon/puppet-jenkins
+[submodule "nexus"]
+	path = nexus
+	url = https://github.com/Proteon/puppet-nexus
