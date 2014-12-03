@@ -64,3 +64,6 @@
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/Proteon/puppet-nexus
+[submodule "puppetlabs-ntp"]
+	path = ntp
+	url = https://github.com/Proteon/puppetlabs-ntp
