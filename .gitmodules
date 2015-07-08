@@ -67,3 +67,6 @@
 [submodule "puppetlabs-ntp"]
 	path = ntp
 	url = https://github.com/Proteon/puppetlabs-ntp
+[submodule "python"]
+	path = python
+	url = https://github.com/Proteon/puppet-python
