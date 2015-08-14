@@ -73,3 +73,9 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/Proteon/puppetlabs-rabbitmq
+[submodule "sonarqube"]
+	path = sonarqube
+	url = https://github.com/Proteon/puppet-sonarqube
+[submodule "wget"]
+	path = wget
+	url = https://github.com/Proteon/puppet-wget
