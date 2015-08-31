@@ -79,3 +79,6 @@
 [submodule "wget"]
 	path = wget
 	url = https://github.com/Proteon/puppet-wget
+[submodule "nfs"]
+	path = nfs
+	url = https://github.com/Proteon/puppet-nfs
