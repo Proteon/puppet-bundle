@@ -82,3 +82,6 @@
 [submodule "nfs"]
 	path = nfs
 	url = https://github.com/Proteon/puppet-nfs
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/Proteon/puppetlabs-mongodb.git
