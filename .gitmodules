@@ -85,3 +85,6 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = https://github.com/Proteon/puppetlabs-mongodb.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/Proteon/puppetlabs-postgresql.git
