@@ -88,3 +88,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/Proteon/puppetlabs-postgresql.git
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/Proteon/puppetlabs-haproxy
