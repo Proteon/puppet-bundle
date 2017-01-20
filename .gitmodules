@@ -91,3 +91,9 @@
 [submodule "haproxy"]
 	path = haproxy
 	url = https://github.com/Proteon/puppetlabs-haproxy
+[submodule "java_ks"]
+	path = java_ks
+	url = https://github.com/Proteon/puppetlabs-java_ks.git
+[submodule "rundeck"]
+	path = rundeck
+	url = https://github.com/Proteon/puppet-rundeck.git
