@@ -97,3 +97,6 @@
 [submodule "rundeck"]
 	path = rundeck
 	url = https://github.com/Proteon/puppet-rundeck.git
+[submodule "unattended_upgrades"]
+	path = unattended_upgrades
+	url = https://github.com/Proteon/puppet-unattended_upgrades.git
