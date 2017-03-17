@@ -100,3 +100,9 @@
 [submodule "unattended_upgrades"]
 	path = unattended_upgrades
 	url = https://github.com/Proteon/puppet-unattended_upgrades.git
+[submodule "puppet-memcached"]
+	path = puppet-memcached
+	url = https://github.com/Proteon/puppet-memcached.git
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/Proteon/puppet-memcached.git
