@@ -106,3 +106,12 @@
 [submodule "memcached"]
 	path = memcached
 	url = https://github.com/Proteon/puppet-memcached.git
+[submodule "puppet-redis"]
+	path = puppet-redis
+	url = https://github.com/Proteon/puppet-redis.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/Proteon/puppet-redis.git
+[submodule "gluster"]
+	path = gluster
+	url = https://github.com/Proteon/puppet-gluster.git
