@@ -115,3 +115,6 @@
 [submodule "gluster"]
 	path = gluster
 	url = https://github.com/Proteon/puppet-gluster.git
+[submodule "jmeter"]
+	path = jmeter
+	url = https://github.com/Proteon/puppet-jmeter.git
