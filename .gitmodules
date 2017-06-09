@@ -118,3 +118,9 @@
 [submodule "jmeter"]
 	path = jmeter
 	url = https://github.com/Proteon/puppet-jmeter.git
+[submodule "drush"]
+	path = drush
+	url = https://github.com/Proteon/puppet-drush
+[submodule "composer"]
+	path = composer
+	url = https://github.com/Proteon/puppet-composer
