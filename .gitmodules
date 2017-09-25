@@ -124,3 +124,6 @@
 [submodule "composer"]
 	path = composer
 	url = https://github.com/Proteon/puppet-composer
+[submodule "letsencrypt"]
+	path = letsencrypt
+	url = https://github.com/Proteon/puppet-letsencrypt.git
