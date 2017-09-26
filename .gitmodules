@@ -127,3 +127,6 @@
 [submodule "letsencrypt"]
 	path = letsencrypt
 	url = https://github.com/Proteon/puppet-letsencrypt.git
+[submodule "vcsrepo"]
+	path = vcsrepo
+	url = https://github.com/Proteon/puppetlabs-vcsrepo
