@@ -130,6 +130,3 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://github.com/Proteon/puppetlabs-vcsrepo
-[submodule "docker"]
-	path = docker
-	url = https://github.com/Proteon/puppet-docker.git
